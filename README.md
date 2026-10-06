@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.svg" alt="DSM Report Comparator overview" width="100%">
+  <img src="Images/header.svg" alt="DSM Report Comparator overview" width="100%">
 </p>
 
 <p align="center">
