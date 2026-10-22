@@ -57,11 +57,27 @@ flowchart LR
 
 Verify your Python installation:
 
-```bash
+```base
 python --version
 # Python 3.x.x
 ```
+How to Install Python and Run the DSM Comparator Tool
 
+```base
+Prerequisites:
+Install the latest available Python version through Toolbase Client.
+Verify that Python is installed at the following path:
+C:\toolbase\Python\python.exe
+```
+
+```bash
+Setup and Execution:
+Download or clone the DSM_Comparator_Tool_v2.0 repository to your local PC.
+Navigate to the downloaded or cloned folder.
+Run DSM_Comparator.pyw using the Python executable installed through Toolbase.
+Double-click or Right-click DSM_Comparator.pyw and select Open with.
+Choose C:\toolbase\Python\python.exe.
+```
 ## Quick start
 
 ```mermaid
